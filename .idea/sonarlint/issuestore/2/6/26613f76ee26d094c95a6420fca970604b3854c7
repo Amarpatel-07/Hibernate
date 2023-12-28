@@ -1,0 +1,6 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Õ¯”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù¸Ê•ÿÿÿÿÿ
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êº®…

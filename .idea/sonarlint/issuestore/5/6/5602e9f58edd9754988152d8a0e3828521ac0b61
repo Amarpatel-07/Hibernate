@@ -1,0 +1,9 @@
+
+`
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ
+E
+java:S1905
+"*Remove this unnecessary cast to "Student".(é·¯šüÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(é·¯šüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(–¶¯M
